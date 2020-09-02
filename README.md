@@ -1,4 +1,6 @@
-My name is Alex Kubica and I’m a senior Full-Stack developer with 5 years experience in IDF’s technological unit looking for my next mission.  
+# Hi I'm Alex Kubica 👋
+
+I’m a senior Full-Stack developer with 5 years experience in IDF’s technological unit looking for my next mission.  
 I'm interested in open source, clean code, testability, scalability, system architecture and system design.  
 In my free time, I write in my [Tech Blog](https://alexkubica.com/) and get involved in the dev community 😎.
 
