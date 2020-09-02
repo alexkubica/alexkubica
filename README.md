@@ -7,11 +7,11 @@ In my free time, I write in my [Tech Blog](https://alexkubica.com/) and get invo
 # I'm actively looking for a job, here's [my CV](https://alexkubica.com/cv)
 
 ![Hire me meme](https://media.makeameme.org/created/i-is-kind-5b74a1.jpg)  
-
+<!--
 
 ## Enjoy your stay here, here's a random GIF for you ♥
 ![Random GIF](https://pacific-sierra-77832.herokuapp.com/)
-<!--
+
 
 **alexkubica/alexkubica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
