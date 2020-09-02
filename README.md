@@ -1,6 +1,16 @@
-### Hi there 👋
+My name is Alex Kubica and I’m a senior Full-Stack developer with 5 years experience in IDF’s technological unit looking for my next mission.  
+I'm interested in open source, clean code, testability, scalability, system architecture and system design.  
+In my free time, I write in my [Tech Blog](https://alexkubica.com/) and get involved in the dev community 😎.
+
+# I'm actively looking for a job, here's [my CV](https://alexkubica.com/cv)
+
+![Hire me meme](https://media.makeameme.org/created/i-is-kind-5b74a1.jpg)  
 
 <!--
+## Enjoy your stay here, here's a random GIF for you ♥
+![Random GIF](https://api.giphy.com/v1/gifs/random?api_key=BSmGPWWzInjcOALNtXXb0Qg2geQztUxE&rating=g)
+
+
 **alexkubica/alexkubica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
