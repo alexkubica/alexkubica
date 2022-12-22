@@ -1,23 +1,8 @@
-# Hi I'm Alex Kubica 👋
+# אלכס קוביצה 👨🏻‍💻 Alex Kubica
+מקדם את תחום הבלוקצ'יין בישראל | מתכנת אתרים | אספן אנאפטי
 
-TBD
+Spreading the word about Blockchain In Israel | Web Dev | NFT Collector
 
-<!--
+🦻
 
-## Enjoy your stay here, here's a random GIF for you ♥
-![Random GIF](https://pacific-sierra-77832.herokuapp.com/)
-
-
-**alexkubica/alexkubica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://app.daily.dev/alexkubica_eth"><img src="https://api.daily.dev/devcards/d14201205e9e4ea0a408872046350f4a.png?r=rtd" width="400" alt="אלכס קוביצה 👨🏻‍💻 Alex Kubica's Dev Card"/></a>
