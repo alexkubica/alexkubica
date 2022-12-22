@@ -1,4 +1,7 @@
-# אלכס קוביצה 👨🏻‍💻 Alex Kubica
+# Alex Kubia 👨🏻‍💻 אלכס קוביצה
+
+https://linktr.ee/alexkubica
+
 מקדם את תחום הבלוקצ'יין בישראל | מתכנת אתרים | אספן אנאפטי
 
 Spreading the word about Blockchain In Israel | Web Dev | NFT Collector
