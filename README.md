@@ -1,6 +1,8 @@
 # AlexKubica.eth אלכס קוביצה
 
-Full Stack Engineer 👨🏻‍💻 I do Technnovation 🦻🏻🇮🇱
+Building 👨🏻‍💻🇮🇱🦻🏻
+
+Into coding, XR, Web3, AI, lowcode and Metaverse 🚀
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
