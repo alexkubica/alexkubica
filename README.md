@@ -1,8 +1,8 @@
 # Alex Kubica אלכס קוביצה
 
-👨🏻‍💻 Hacking innovative tech into products 🚀
+Hacking innovative tech into products 👨🏻‍💻
 
-🤩 Coding | AI | XR | Web3 | Low-Code
+Coding AI Low-Code XR 3D Web3 🤩
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
