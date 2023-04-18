@@ -1,8 +1,10 @@
 # Alex Kubica אלכס קוביצה
 
-Hacking innovative tech into products 👨🏻‍💻
+Software Engineer adept in React & NodeJS 👨🏻‍💻
 
-Coding AI Low-Code XR 3D Web3 🤩
+Publicly learning Web3 🚀
+
+Also into innovation, AI, XR, lowcode & investing 🤩
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
