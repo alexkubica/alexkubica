@@ -1,10 +1,8 @@
 # Alex Kubica אלכס קוביצה
 
-Software Engineer adept in React & NodeJS 👨🏻‍💻
+Full Stack Developer 👨🏻‍💻
 
-Publicly learning Web3 🚀
-
-Also into innovation, AI, XR, lowcode & investing 🤩
+I talk about AI and blockchain 🚀
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
