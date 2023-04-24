@@ -2,7 +2,7 @@
 
 Full Stack Developer 👨🏻‍💻
 
-I talk about AI and blockchain 🚀
+Exploring the Web3 ecosystem 🌐 🔗 🚀
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
