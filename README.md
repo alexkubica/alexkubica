@@ -1,8 +1,10 @@
 # Alex Kubica אלכס קוביצה
 
-Full Stack Developer 👨🏻‍💻
+Onboarding web devs onto Blockchain 🧱🚀
 
-Exploring the Web3 ecosystem 🌐 🔗 🚀
+OctoChain community creator 🐙🔗
+
+Dev at Monday.com ex-Wix.com 👨‍💻
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
