@@ -1,10 +1,10 @@
 # Alex Kubica אלכס קוביצה
 
-Onboarding web devs onto Blockchain 🧱🚀
+Blockchain enthusiast 🧱🚀
 
 OctoChain community creator 🐙🔗
 
-Dev at Monday.com ex-Wix.com 👨‍💻
+Dev at monday.com 👨🏻‍💻
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
