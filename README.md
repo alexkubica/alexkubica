@@ -1,4 +1,4 @@
-# Alex Kubica אלכס קוביצה
+# Alex Kubica אלכס קוביצה 🐙🔗 Web3 Enthusiast
 
 Learning Web3 dev 🧱🚀
 
