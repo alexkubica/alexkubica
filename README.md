@@ -6,7 +6,7 @@ OctoChain founder 🐙🔗
 
 Dev at https://monday.com 👨🏻‍💻
 
-Web3 hanldes: alexkubica.eth/.cyber/.blockchain
+alexkubica.eth/.cyber/.blockchain
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
