@@ -1,8 +1,8 @@
 # Alex Kubica אלכס קוביצה
 
-Blockchain enthusiast 🧱🚀
+Learning Web3 dev 🧱🚀
 
-OctoChain community creator 🐙🔗
+OctoChain founder 🐙🔗
 
 Dev at monday.com 👨🏻‍💻
 
