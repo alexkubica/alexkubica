@@ -1,12 +1,12 @@
-# Alex Kubica אלכס קוביצה 🐙🔗 Web3 Enthusiast
+# Alex Kubica | Web3 🐙
 
-Learning Web3 dev 🧱🚀
+Learning Web3 dev
 
-OctoChain founder 🐙🔗
+OctoChain founder 🐙
 
-Dev at https://monday.com 👨🏻‍💻
+Dev at https://monday.com
 
-alexkubica.eth/.cyber/.blockchain
+alexkubica.eth
 
 [Me on the Internet 🌐](https://linktr.ee/alexkubica)
 
