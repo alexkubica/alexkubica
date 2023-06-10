@@ -1,8 +1,6 @@
 # Alex Kubica 🐙
 
-Web3 news and resources 🚀
-
-We should own our data
+I share with you the latest Web3 news and resources 🚀
 
 [Web Presence 🌐](https://link3.to/alexkubica)
 
