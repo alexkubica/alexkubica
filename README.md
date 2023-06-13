@@ -1,6 +1,8 @@
 # Alex Kubica 🐙
 
-I share with you the latest Web3 news and resources 🚀
+Exploring the Web3 ecosystem 🚀
+
+Dev at monday.com 👨‍💻
 
 [Web Presence 🌐](https://link3.to/alexkubica)
 
