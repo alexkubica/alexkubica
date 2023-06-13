@@ -1,8 +1,6 @@
-# Alex Kubica 🐙
+# Alex Kubica
 
-Exploring the Web3 ecosystem 🚀
-
-Dev at monday.com 👨‍💻
+Dev at monday.com exploring Web3 off work 🚀
 
 [Web Presence 🌐](https://link3.to/alexkubica)
 
