@@ -1,6 +1,8 @@
 # Alex Kubica
 
-Dev at monday.com exploring Web3 off work 🚀
+Building RainbowDino's Web3 Hub for builders and enthusiasts 🌈🦖
+
+Dev at monday.com 👨🏻‍💻
 
 [Web Presence 🌐](https://linktr.ee/alexkubica)
 
