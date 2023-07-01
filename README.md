@@ -1,8 +1,6 @@
 # Alex Kubica
 
-Building RainbowDino's Web3 Hub for builders and enthusiasts 🌈🦖
-
-Dev at monday.com 👨🏻‍💻
+Building R&D3 🌈🦖 Stay updated with the latest news and resources for Web3 builders: https://linktr.ee/rainbowdino
 
 [Web Presence 🌐](https://linktr.ee/alexkubica)
 
