@@ -2,7 +2,7 @@
 
 ![Twitter Header](https://github.com/alexkubica/alexkubica/assets/14129135/36612df2-17a5-4be6-8fba-bc68d221f93c)
 
-WebDev Content Creator | Software Engineer at [monday.com][2] | Ex - [Wix][3] | Ex- IDF 🇮🇱
+Indie hacker | Dev at [monday.com](https://monday.com)
 
 [Web Presence 🌐][1]
 
