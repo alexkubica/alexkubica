@@ -1,4 +1,4 @@
-# Alex Kubica
+# Alex Kubica 🇮🇱
 
 ![Twitter Header](https://github.com/alexkubica/alexkubica/assets/14129135/36612df2-17a5-4be6-8fba-bc68d221f93c)
 
