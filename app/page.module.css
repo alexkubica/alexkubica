@@ -1,0 +1,9 @@
+.hour {
+  --value: 10;
+}
+.min {
+  --value: 10;
+}
+.sec {
+  --value: 10;
+}
