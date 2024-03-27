@@ -47,25 +47,28 @@ export default function HomePage() {
           </div>
           <div className="prose text-center">
             <h2>Alex Kubica 🇮🇱</h2>
-          <div className="flex flex-wrap gap-4 justify-center pb-4">
-            <IconButton
-              icon={<IconBrandTelegram />}
-              url="https://t.me/alexkubica"
-            />
-            <IconButton icon={<IconMail />} url="mailto:me@alexkubica.com" />
-            <IconButton icon={<IconBrandX />} url="https://x.com/alexkubica_" />
-            <IconButton
-              icon={<IconBrandLinkedin />}
-              url="https://www.linkedin.com/in/alexkubica/"
-            />
-            <IconButton
-              icon={<IconBrandThreads />}
-              url="https://www.threads.net/@alex_kubica"
-            />
-          </div>
+            <div className="flex flex-wrap gap-4 justify-center pb-4">
+              <IconButton
+                icon={<IconBrandTelegram />}
+                url="https://t.me/alexkubica"
+              />
+              <IconButton icon={<IconMail />} url="mailto:me@alexkubica.com" />
+              <IconButton
+                icon={<IconBrandX />}
+                url="https://x.com/alexkubica_"
+              />
+              <IconButton
+                icon={<IconBrandLinkedin />}
+                url="https://www.linkedin.com/in/alexkubica/"
+              />
+              <IconButton
+                icon={<IconBrandThreads />}
+                url="https://www.threads.net/@alex_kubica"
+              />
+            </div>
             <div className="prose text-center">
               dev at monday.com.
-                <br />
+              <br />
               Using PERN stack, Next.js, Tailwind CSS & vim.
               <br />
               Learning Japanese & Russian.
@@ -75,7 +78,9 @@ export default function HomePage() {
               Wallet: 0xd81B7A2a1bBf3e1c713f2A5C886f88EE5f862417.
             </div>
             <div className="prose text-center pt-8">
-              <LinkButton url="https://warpcast.com/alexk">Warpcast - FID 14879</LinkButton>
+              <LinkButton url="https://warpcast.com/alexk">
+                Warpcast - FID 14879
+              </LinkButton>
             </div>
             <div className="prose text-center pt-4">
               <LinkButton url="https://zora.co/@alexk">Zora</LinkButton>
