@@ -46,7 +46,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="prose text-center">
-            <h2>Alex Kubica 🇮🇱</h2>
+            <h2>Alex Kubica 🇮🇱🎩</h2>
             <div className="flex flex-wrap gap-4 justify-center pb-4">
               <IconButton
                 icon={<IconBrandTelegram />}
@@ -67,23 +67,38 @@ export default function HomePage() {
               />
             </div>
             <div className="prose text-center">
-              dev at monday.com.
+              PERN stack dev. Getting lean.
               <br />
-              Using PERN stack, Next.js, Tailwind CSS & vim.
+              Dad of 2 chihuahuas Lilo & Stich.
               <br />
-              Learning Japanese & Russian.
+              Learning Russian & Japanese.
               <br />
-              fid 14879.
-              <br />
-              Wallet: 0xd81B7A2a1bBf3e1c713f2A5C886f88EE5f862417.
+              0xd81B7A2a1bBf3e1c713f2A5C886f88EE5f862417
             </div>
             <div className="prose text-center pt-8">
               <LinkButton url="https://warpcast.com/alexk">
-                Warpcast - FID 14879
+                Farcaster - FID 14879
               </LinkButton>
             </div>
             <div className="prose text-center pt-4">
-              <LinkButton url="https://zora.co/@alexk">Zora</LinkButton>
+              <LinkButton url="https://drakula.app/user/alexk?invite=pdkkjd">
+                Watch my vlogs on Drakula 🩸
+              </LinkButton>
+            </div>
+            <div className="prose text-center pt-4">
+              <LinkButton url="https://zora.co/@alexk">
+                Mint my NFTs on Zora 🎨
+              </LinkButton>
+            </div>
+            <div className="prose text-center pt-4">
+              <LinkButton url="https://ysh.li/fid">
+                "What's my fid?" frame
+              </LinkButton>
+            </div>
+            <div className="prose text-center pt-4">
+              <LinkButton url="https://t.me/yshliweb3">
+                Follow "Web3 News" on Telegram
+              </LinkButton>
             </div>
             <div className="prose text-center pt-4">
               <LinkButton url="https://ysh.li/alex">קישורים בעברית</LinkButton>

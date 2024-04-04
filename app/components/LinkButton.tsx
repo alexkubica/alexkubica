@@ -16,7 +16,7 @@ const convertChildrenToText = (children: any): string => {
 export default function LinkButton({
   children,
   url,
-  dir = "rtl",
+  dir = "ltr",
 }: {
   children: React.ReactNode;
   url: string;
