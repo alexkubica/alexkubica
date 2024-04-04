@@ -92,12 +92,12 @@ export default function HomePage() {
             </div>
             <div className="prose text-center pt-4">
               <LinkButton url="https://ysh.li/fid">
-                "What's my fid?" frame
+                &quot;What&apos;s my fid?&quot; frame
               </LinkButton>
             </div>
             <div className="prose text-center pt-4">
               <LinkButton url="https://t.me/yshliweb3">
-                Follow "Web3 News" on Telegram
+                Follow &quot;Web3 News&quot; on Telegram
               </LinkButton>
             </div>
             <div className="prose text-center pt-4">
