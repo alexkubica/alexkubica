@@ -1,4 +1,5 @@
 import {
+  IconBrandGithub,
   IconBrandLinkedin,
   IconBrandTelegram,
   IconBrandThreads,
@@ -46,64 +47,102 @@ export default function HomePage() {
             </div>
           </div>
           <div className="prose text-center">
-            <h2>Alex Kubica 🇮🇱🎩</h2>
-            <div className="flex flex-wrap gap-4 justify-center pb-4">
-              <IconButton
-                icon={<IconBrandTelegram />}
-                url="https://t.me/alexkubica"
-              />
-              <IconButton icon={<IconMail />} url="mailto:me@alexkubica.com" />
-              <IconButton
-                icon={<IconBrandX />}
-                url="https://x.com/alexkubica_"
-              />
-              <IconButton
-                icon={<IconBrandLinkedin />}
-                url="https://www.linkedin.com/in/alexkubica/"
-              />
-              <IconButton
-                icon={<IconBrandThreads />}
-                url="https://www.threads.net/@alex_kubica"
-              />
-            </div>
-            <div className="prose text-center">
-              PERN stack dev. Getting lean.
-              <br />
-              Dad of 2 chihuahuas Lilo & Stich.
-              <br />
-              Learning Russian & Japanese.
-              <br />
-              0xd81B7A2a1bBf3e1c713f2A5C886f88EE5f862417
-            </div>
-            <div className="prose text-center pt-8">
-              <LinkButton url="https://warpcast.com/alexk">
-                Farcaster - FID 14879
-              </LinkButton>
-            </div>
-            <div className="prose text-center pt-4">
-              <LinkButton url="https://drakula.app/user/alexk?invite=pdkkjd">
-                Watch my vlogs on Drakula 🩸
-              </LinkButton>
-            </div>
-            <div className="prose text-center pt-4">
-              <LinkButton url="https://zora.co/@alexk">
-                Mint my NFTs on Zora 🎨
-              </LinkButton>
-            </div>
-            <div className="prose text-center pt-4">
-              <LinkButton url="https://ysh.li/fid">
-                &quot;What&apos;s my fid?&quot; frame
-              </LinkButton>
-            </div>
-            <div className="prose text-center pt-4">
-              <LinkButton url="https://t.me/yshliweb3">
-                Follow &quot;Web3 News&quot; on Telegram
-              </LinkButton>
-            </div>
-            <div className="prose text-center pt-4">
-              <LinkButton url="https://ysh.li/alex">קישורים בעברית</LinkButton>
-            </div>
+            <h2>Alex Kubica 🇮🇱🎩🩸</h2>
+            <div className="prose text-center pt-4">Full stack dev.</div>
           </div>
+          <div className="flex flex-wrap gap-4 justify-center pb-4">
+            <IconButton
+              icon={<IconBrandTelegram />}
+              url="https://t.me/alexkubica"
+            />
+            <IconButton icon={<IconMail />} url="mailto:me@alexkubica.com" />
+            <IconButton icon={<IconBrandX />} url="https://x.com/alexkubica_" />
+            <IconButton
+              icon={<IconBrandLinkedin />}
+              url="https://www.linkedin.com/in/alexkubica/"
+            />
+            <IconButton
+              icon={<IconBrandThreads />}
+              url="https://www.threads.net/@alex_kubica"
+            />
+            <IconButton
+              icon={<IconBrandGithub />}
+              url="https://github.com/alexkubica"
+            />
+          </div>
+
+          <LinkButton url="https://warpcast.com/alexk">
+            Farcaster - FID 14879
+          </LinkButton>
+
+          <div className="prose text-center ">
+            I host{" "}
+            <a className="link" href="https://warpcast.com/~/channel/host">
+              /host
+            </a>{" "}
+            <a
+              className="link"
+              href="https://warpcast.com/~/channel/eurovision"
+            >
+              /eurovision
+            </a>{" "}
+            <a className="link" href="https://warpcast.com/~/channel/hebrew">
+              /hebrew
+            </a>{" "}
+            <a
+              className="link"
+              href="https://warpcast.com/~/channel/graffitihunters"
+            >
+              /graffitihunters
+            </a>
+            .
+          </div>
+
+          <LinkButton url="https://t.me/yshliweb3">
+            Follow &quot;Web3 News&quot; on Telegram
+          </LinkButton>
+
+          <LinkButton url="https://drakula.app/user/alexk?invite=pdkkjd">
+            Watch my videos on Drakula 🩸
+          </LinkButton>
+
+          <LinkButton url="https://zora.co/@alexk">
+            Mint my NFTs on Zora 🎨
+          </LinkButton>
+
+          <LinkButton url="https://www.frameboard.com/alexk-c236">
+            Frameboard
+          </LinkButton>
+
+          <div className="prose text-center pt-4">
+            <h4>Projects</h4>
+          </div>
+
+          <LinkButton url="https://ysh.li">
+            ysh.li - collection of random projects
+          </LinkButton>
+
+          <LinkButton url="https://ysh.li/fid">
+            &quot;What&apos;s my fid?&quot; frame
+          </LinkButton>
+
+          <LinkButton url="https://t.me/yshliweb3">
+            Web3 News channel bot on Telegram
+          </LinkButton>
+
+          <LinkButton url="https://www.spatial.io/s/Art-Gallery-by-Diana-Later-63e951b0de17b1be4948ef18">
+            DL`Art's Metaverse art gallery
+          </LinkButton>
+
+          <LinkButton url="https://rnd3.spread.name/">
+            R&D3 - Web3 News magazine POC
+          </LinkButton>
+
+          <div className="prose text-center pt-4">
+            <h4>Misc.</h4>
+          </div>
+
+          <LinkButton url="https://ysh.li/alex">קישורים בעברית</LinkButton>
         </div>
       </div>
       <Footer />
