@@ -131,7 +131,7 @@ export default function HomePage() {
           </LinkButton>
 
           <LinkButton url="https://www.spatial.io/s/Art-Gallery-by-Diana-Later-63e951b0de17b1be4948ef18">
-            DL`Art's Metaverse art gallery
+            DL`Art&apos;s Metaverse art gallery
           </LinkButton>
 
           <LinkButton url="https://rnd3.spread.name/">
